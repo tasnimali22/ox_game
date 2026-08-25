@@ -1,17 +1,43 @@
-# ox_game
+# OX Game – Tic-Tac-Toe
 
-A new Flutter project.
+A simple Tic-Tac-Toe mobile game built with Flutter and Dart.
+
+## Features
+
+* Two-player gameplay
+* Simple and responsive UI
+* Win and draw detection
+* Game reset functionality
+* Clear game status display
+
+## Technologies
+
+* Flutter
+* Dart
+* Material Design
+
+## Screenshots
+
+Add screenshots of the game here.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+* Flutter SDK
+* Android Studio or VS Code
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone YOUR_REPOSITORY_LINK
+cd ox_game
+flutter pub get
+flutter run
+```
+
+## Author
+
+**Tasnim Ali Elabd**
+
+Flutter Developer
